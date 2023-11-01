@@ -1,6 +1,6 @@
 package Staff_on_project;
 
-public class Staff_on_project {
+public class StaffOnProject {
     public static void main(String[] args) {
         final int PROGRAMMERS = 20;
         final int TESTERS_FOR_ONE_PROGRAMMER = 2; //количество тестировщиков для проверки кода 1 программиста

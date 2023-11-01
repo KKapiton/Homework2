@@ -1,6 +1,6 @@
 package HYPOTHEC;
 
-public class HYPOTHEC {
+public class Hypotec {
     public static void main(String[] args) {
         final int COST_FLAT_RUB = 1000000;
         final double PERCENT_PAYMENT_FLAT = 0.435345;

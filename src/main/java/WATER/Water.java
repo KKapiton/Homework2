@@ -1,6 +1,6 @@
 package WATER;
 
-public class WATER {
+public class Water {
     public static void main(String[] args) {
         final int WATER_CUP_ML = 500;
         final double WATER_PERCENT = 0.34;

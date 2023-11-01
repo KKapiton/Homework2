@@ -1,6 +1,6 @@
 package SHIRTS;
 
-public class SHIRTS {
+public class Shirts {
     public static void main(String[] args) {
         final int FULL_COST = 1000; //полная цена одной рубашки
         final int LOT_SHIRTS = 5; //количество выбранных рубашек

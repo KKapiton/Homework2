@@ -1,6 +1,6 @@
 package Saruman_Lannisters;
 
-public class Saruman_Lannisters {
+public class SarumanLannisters {
     public static void main(String[] args) {
         final int LANNISTER_INFANRYMANS = 1000;
         final int SARUMAN_ORCS = 5500;

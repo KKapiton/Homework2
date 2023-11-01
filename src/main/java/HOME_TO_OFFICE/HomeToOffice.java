@@ -1,6 +1,6 @@
 package HOME_TO_OFFICE;
 
-public class HOME_TO_OFFICE {
+public class HomeToOffice {
     public static void main(String[] args) {
         final int WAY = 100; //расстояние от офиса до дома 100 км
         final float SPEED_TAXI = 68.45f; //скорость такси

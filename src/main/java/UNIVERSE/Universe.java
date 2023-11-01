@@ -1,6 +1,6 @@
 package UNIVERSE;
 
-public class UNIVERSE {
+public class Universe {
     public static void main(String[] args) {
         final long UNIVERSE_AGE = 13000000000L;
         final long HUMAN_AGE = 100000L;
