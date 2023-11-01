@@ -9,6 +9,6 @@ public class HomeToOffice {
         final float timeRoadToHome = timeRoadToOffice + (timeRoadToOffice * trafficBad); //время до дома с плохим трафиком
 
         System.out.println("Тестировщик едет в офис " + timeRoadToOffice + "часов");
-        System.out.println("Тестировщик едет домой с плохим трафиком " + timeRoadToHome + "чаов");
+        System.out.println("Тестировщик едет домой с плохим трафиком " + timeRoadToHome + "часов");
     }
 }
