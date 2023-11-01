@@ -2,10 +2,10 @@ package UNIVERSE;
 
 public class Universe {
     public static void main(String[] args) {
-        final long UNIVERSE_AGE = 13000000000L;
-        final long HUMAN_AGE = 100000L;
-        final long DIFFERENT_AGE = UNIVERSE_AGE / HUMAN_AGE;
+        final long universeAge = 13000000000L;
+        final long humanAge = 100000L;
+        final long differentAge = universeAge / humanAge;
 
-        System.out.print("Вселенная старше человечества в " + DIFFERENT_AGE);
+        System.out.print("Вселенная старше человечества в " + differentAge);
     }
 }
