@@ -8,6 +8,7 @@ public class SHIRTS {
         final int LOT_LACK = CONDITION_FOR_DISCOUNT - LOT_SHIRTS; // количество которого не хватает для скидки
         final int COST_LOT_SHIRTS = LOT_SHIRTS * FULL_COST; // цена выбранных рубашек, БЕЗ СКИДКИ
         final int COST_CONDITION_SHIRT = LOT_LACK * FULL_COST; // цена рубашек нужных ДЛЯ СКИДКИ
+
         final double PERCENT_DISCOUNT = 0.45d; // % скидки
         final double ALL_COST_DISCOUNT = (CONDITION_FOR_DISCOUNT * FULL_COST) - (CONDITION_FOR_DISCOUNT * FULL_COST * PERCENT_DISCOUNT); // цена всех рубашек со скидкой
         final double COST_ONE_SHIRT_DISCOUNT = FULL_COST - (FULL_COST * PERCENT_DISCOUNT); // цена одной рубашки со скидкой
