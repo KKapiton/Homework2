@@ -1,4 +1,4 @@
-package SHIRTS;
+package Shirts;
 
 public class Shirts {
     public static void main(String[] args) {

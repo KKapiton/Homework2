@@ -1,4 +1,4 @@
-package HYPOTHEC;
+package Hypothec;
 
 public class Hypothec {
     public static void main(String[] args) {

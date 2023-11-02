@@ -1,4 +1,4 @@
-package HOME_TO_OFFICE;
+package HomeToOffice;
 
 public class HomeToOffice {
     public static void main(String[] args) {

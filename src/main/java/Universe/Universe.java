@@ -1,4 +1,4 @@
-package UNIVERSE;
+package Universe;
 
 public class Universe {
     public static void main(String[] args) {
