@@ -1,4 +1,4 @@
-package Saruman_Lannisters;
+package SarumanLannisters;
 
 public class SarumanLannisters {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Staff_on_project;
+package StaffOnProject;
 
 public class StaffOnProject {
     public static void main(String[] args) {
